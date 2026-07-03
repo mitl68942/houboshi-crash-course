@@ -14,6 +14,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "docx": "^9.7.1",
     "pdfkit": "^0.19.1"
   }
 }
